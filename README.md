@@ -75,7 +75,7 @@ This control might not seem terribly useful, but in future lessons you'll see ju
 
 ### Switches
 
-A _switch_ lets the user select between two boolean values, generally either "on" or "off". You seem them a lot in app preferences, where a user can select whether an option is on or off, but they can be used other places than just preference panes as well. Add a switch to your user interface from the object library. Put it below the horizontal slider, so your UI looks like this:
+A _switch_ lets the user select between two boolean values, generally either "on" or "off". You see them a lot in app preferences, where a user can select whether an option is on or off, but they can be used other places than just preference panes as well. Add a switch to your user interface from the object library. Put it below the horizontal slider, so your UI looks like this:
 
 ![Switches](http://i.imgur.com/Pd9CXtr.png)
 
@@ -124,3 +124,5 @@ That's all the UI elements we're going to cover in this lesson, although there a
 ![UI elements in action](http://i.imgur.com/9c9J9uW.png)
 
 <a href='https://learn.co/lessons/uiElements' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/swift-uiElements-readme'>UIKit</a> on Learn.co and start learning to code for free.</p>
