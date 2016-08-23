@@ -4,6 +4,10 @@
 
 > Rrrrrrr-ghghghghgh! ~[Chewbacca](https://en.wikipedia.org/wiki/Chewbacca)
 
+## Overview 
+
+In this lesson, we'll cover some of the interesting user interface elements that you can use in your iOS apps.
+
 ## Learning Objectives
 
 * Explain the role of UIKit in the development of iOS programs
@@ -14,8 +18,6 @@
 iOS includes a framework called _UIKit_. UIKit provides you with a standard set of widgets, referred to as _elements_ or _controls_, that you can use in your app's views to provide a way for your users to interact with your app.
 
 ## UI Controls
-
-So far, you have been introduced to a few user interface elements, including basic views, labels, and buttons. In this lesson, you'll get a quick overview of some of the other interesting user interface elements that you can use in your iOS apps.
 
 To begin this investigation, create a new iOS project in Xcode. You can use the single-view application template provided with Xcode. (There is also a sample application included in this repository. It's located at `UIElements/UIElements.xcodeproj`. But you should start your own project so you can get a feel for these elements yourself.)
 
@@ -122,7 +124,5 @@ Much like the page control, steppers are generally used in conjunction with some
 That's all the UI elements we're going to cover in this lesson, although there are plenty more that you'll be introduced to later on. For now, go ahead and build and run your application. Play with the elements you created a bit to see how you can interact with them. They won't do anything useful yet, but it's good to know what's provided by UIKit so you can make good use of these elements in your own apps.
 
 ![UI elements in action](http://i.imgur.com/9c9J9uW.png)
-
-<a href='https://learn.co/lessons/uiElements' data-visibility='hidden'>View this lesson on Learn.co</a>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/swift-uiElements-readme'>UIKit</a> on Learn.co and start learning to code for free.</p>
