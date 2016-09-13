@@ -19,7 +19,7 @@ iOS includes a framework called _UIKit_. UIKit provides you with a standard set 
 
 ## UI Controls
 
-To begin this investigation, create a new iOS project in Xcode. You can use the single-view application template provided with Xcode. (There is also a sample application included in this repository. It's located at `UIElements/UIElements.xcodeproj`. But you should start your own project so you can get a feel for these elements yourself.)
+To begin this investigation, create a new iOS project in Xcode. You can use the single-view application template provided with Xcode.
 
 ### Labels
 
